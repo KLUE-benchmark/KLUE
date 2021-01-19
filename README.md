@@ -29,7 +29,7 @@ You can find pretraining codes in below repositories:
 - [ELECTRA](https://github.com/Korean-Benchmark/KLUE-ELECTRA)
 - [DistilRoBERTa](https://github.com/Korean-Benchmark/KLUE-DistilBERT)
 
-`NOTE`:  All baselines are going to be uploaded in Hugginface Model Hub until March. Stay tuned!
+`NOTE`:  All baselines are going to be uploaded in Huggingface Model Hub until March. Stay tuned!
 
 ## Leaderboard
 TBA (Will be open in March)
