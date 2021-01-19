@@ -30,7 +30,7 @@ You can find pretraining codes in below repositories:
 
 ## Members
 ### Researchers
-[Sungjoon Park](https://github.com/SungjoonPark), [Jihyung Moon](https://github.com/inmoonlight), [Sungdong Kim](https://github.com/DSKSD), [Wonik Cho](https://github.com/warnikchow), Jiyoon Han, [Jangwon Park](https://github.com/monologg), [Joohong Lee](https://github.com/roomylee), [Junseong Kim](https://github.com/codertimo), Seongbo Jang, Youngsook Song, Chisung Song, Sungwon Ryu, Hyunwoo Kim, Byeongchang Kim, [Seonghyun Kim](https://github.com/MrBananaHuman), Taehwan Oh, Sangwoo Seo, Seungwon Do, [Lucy Park](https://github.com/e9t), Inkwon Lee, Kyungtae Lim, Jay Shin, Younghoon Jeong, Sangjun Koo, [Dongjun Lee](https://github.com/DongJunLee), Jongwon Lee, 
+[Sungjoon Park](https://github.com/SungjoonPark), [Jihyung Moon](https://github.com/inmoonlight), [Sungdong Kim](https://github.com/DSKSD), [Wonik Cho](https://github.com/warnikchow), Jiyoon Han, [Jangwon Park](https://github.com/monologg), [Joohong Lee](https://github.com/roomylee), [Junseong Kim](https://github.com/codertimo), Seongbo Jang, Youngsook Song, Chisung Song, Sungwon Ryu, Hyunwoo Kim, Byeongchang Kim, [Seonghyun Kim](https://github.com/MrBananaHuman), Taehwan Oh, Sangwoo Seo, Seungwon Do, [Lucy Park](https://github.com/e9t), Inkwon Lee, Kyungtae Lim, Jay Shin, Younghoon Jeong, Sangjun Koo, [Dongjun Lee](https://github.com/DongJunLee), Jongwon Lee
 
 ### Advisors
 Alice Oh, Jungwoo Ha, Kyunghyun Cho
