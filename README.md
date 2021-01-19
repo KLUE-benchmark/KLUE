@@ -4,9 +4,10 @@ The KLUE project is introduced by [UpstageAI](https://www.upstage.ai/) to make a
 
 ## Goal
 1. KLUE project aims to build a **trustworthy** evaluation dataset that can be used for both **commercial and non-commercial purposes**. 
-2. Our second goal is to release **publicly available Korean Language Models-BERT, RoBERTa, DistilRoBERTa, ELECTRA- as baselines** and summarize findings from ablation studies on training strategies of Korean Language Models.
+2. Our second goal is to release **publicly available Korean Language Models-BERT, RoBERTa, DistilRoBERTa, ELECTRA- as baselines** and summarize **findings from ablation studies on training strategies** of Korean Language Models.
+3. We would like to run a fair KLUE leaderboard. Models are compared in terms of their size, inference speed, and so on.
 
-### 1. Benchmark Dataset
+## Benchmark Dataset
 KLUE dataset is composed of 9 tasks:
 - Named Entity Recognition (NER)
 - (Part-Of-Speech) + Dependency Parsing (DP)
@@ -18,8 +19,9 @@ KLUE dataset is composed of 9 tasks:
 - Task-Oriented Dialogue understanding (TOD)
 - Open-Domain Dialogue understanding (OOD)
 
+`NOTE`: Details about each dataset - collection, annotation, quality, guidelines, and so on - will be described in the paper.
 
-### 2. Benchmark PLMs
+## Benchmark PLMs
 We have trained 4 models: BERT, RoBERTa, DistilRoBERTa, ELECTRA. All models except distilled one will be released in small, base, and large size. <br>
 You can find pretraining codes in below repositories:
 - [BERT](https://github.com/Korean-Benchmark/KLUE-BERT)
@@ -27,9 +29,10 @@ You can find pretraining codes in below repositories:
 - [ELECTRA](https://github.com/Korean-Benchmark/KLUE-ELECTRA)
 - [DistilRoBERTa](https://github.com/Korean-Benchmark/KLUE-DistilBERT)
 
+`NOTE`:  All baselines are going to be uploaded in Hugginface Model Hub until March. Stay tuned!
 
-## Product
-TBA (Our findings and results are to be described in the paper and all baselines are going to be uploaded in Hugginface Model Hub until March. Stay tuned!)
+## Leaderboard
+TBA (Will be open in March)
 
 ## Members
 ### Researchers
