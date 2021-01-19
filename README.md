@@ -28,6 +28,9 @@ You can find pretraining codes in below repositories:
 - [DistilRoBERTa](https://github.com/Korean-Benchmark/KLUE-DistilBERT)
 
 
+## Product
+TBA (Our findings and results are to be described in the paper and all baselines are going to be uploaded in Hugginface Model Hub until March. Stay tuned!)
+
 ## Members
 ### Researchers
 [Sungjoon Park](https://github.com/SungjoonPark), [Jihyung Moon](https://github.com/inmoonlight), [Sungdong Kim](https://github.com/DSKSD), [Wonik Cho](https://github.com/warnikchow), Jiyoon Han, [Jangwon Park](https://github.com/monologg), [Joohong Lee](https://github.com/roomylee), [Junseong Kim](https://github.com/codertimo), Seongbo Jang, Youngsook Song, Chisung Song, Sungwon Ryu, Hyunwoo Kim, Byeongchang Kim, [Seonghyun Kim](https://github.com/MrBananaHuman), Taehwan Oh, Sangwoo Seo, Seungwon Do, [Lucy Park](https://github.com/e9t), Inkwon Lee, Kyungtae Lim, Jay Shin, Younghoon Jeong, Sangjun Koo, [Dongjun Lee](https://github.com/DongJunLee), Jongwon Lee
