@@ -17,7 +17,6 @@ KLUE dataset is composed of 9 tasks:
 - Sentence Textual Similarity (STS)
 - Machine Reading Comprehension (MRC)
 - Task-Oriented Dialogue understanding (TOD)
-- Open-Domain Dialogue understanding (OOD)
 
 `NOTE`: Details about each dataset - collection, annotation, quality, guidelines, and so on - will be described in the paper.
 
@@ -43,7 +42,7 @@ Alice Oh, Jungwoo Ha, Kyunghyun Cho
 
 
 ## Sponsors
-NAVER Corporation, Kakao Enterprise, Selectstar, Riiid, DeepNatural, KAIST
+NAVER Corporation, Kakao Enterprise, Selectstar, ScatterLab, Riiid, DeepNatural, KAIST
 
 ## License
 
