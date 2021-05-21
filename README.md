@@ -13,7 +13,7 @@ In designing the Korean Language Understanding Evaluation (KLUE) benchmark, we a
 1. cover **diverse** tasks and corpora
 2. **accessible** to everyone without any restriction
 3. include **accurate** and unambiguous annotations
-4. **mitigating** AI ethical issues. 
+4. **mitigate** AI ethical issues. 
 
 
 ## Benchmark Datasets
