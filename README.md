@@ -29,8 +29,8 @@ KLUE benchmark is composed of 8 tasks:
 
 `NOTE`: In the paper, we describe more in detail how our 4 principles have guided creating KLUE from task selection, corpus selection, annotation protocols, determining evaluation metrics to baseline construction. 
 
-## Benchmark PLMs
-We have trained 2 models: KLUE-BERT and KLUE-RoBERTa. KLUE-RoBERTa will be released in small, base, and large size. <br>
+## KLUE-PLMs
+We have trained 2 models: KLUE-BERT and KLUE-RoBERTa. <br>
 
 | Model                | Embedding size | Hidden size | # Layers | # Heads |
 |----------------------|----------------|-------------|----------|---------|
