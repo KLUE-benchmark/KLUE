@@ -1,4 +1,4 @@
-# Korean Language Understanding Evaluation (a.k.a KLUE) 
+# KLUE: Korean Language Understanding Evaluation 
 
 The KLUE is introduced to make advances in Korean NLP. Korean pre-trained language models(PLMs) have appeared to solve Korean NLP problems since PLMs have brought significant performance gains in NLP problems in other languages. Despite the proliferation of Korean language models, however, none of the proper evaluation datasets has been opened yet. The lack of such benchmark dataset limits the fair comparison between the models and further progress on model architectures. 
 
