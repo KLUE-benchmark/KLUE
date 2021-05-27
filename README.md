@@ -27,7 +27,10 @@ KLUE benchmark is composed of 8 tasks:
 - Machine Reading Comprehension (MRC)
 - Dialogue State Tracking (DST)
 
+See [wiki](https://github.com/KLUE-benchmark/KLUE/wiki) for dataset description. <br>
+
 `NOTE`: In the paper, we describe more in detail how our 4 principles have guided creating KLUE from task selection, corpus selection, annotation protocols, determining evaluation metrics to baseline construction. 
+
 
 ## KLUE-PLMs
 We have trained 2 models: KLUE-BERT and KLUE-RoBERTa. <br>
