@@ -43,7 +43,7 @@ We have trained 2 models: KLUE-BERT and KLUE-RoBERTa. <br>
 | KLUE-RoBERTa-base         | 768            | 768         | 12       | 12      |
 | KLUE-RoBERTa-large        | 1024           | 1024        | 24       | 16      |
 
-`NOTE`:  All baselines are going to be uploaded in Huggingface Model Hub until the end of May. Stay tuned!
+`NOTE`:  All of the pretrained models are uploaded in Huggingface Model Hub. Check https://huggingface.co/klue.
 
 ## Baseline Scores
 
