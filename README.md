@@ -74,7 +74,7 @@ https://klue-benchmark.com
 [Sungjoon Park](https://github.com/SungjoonPark), [Jihyung Moon](https://github.com/inmoonlight), [Sungdong Kim](https://github.com/DSKSD), [Won Ik Cho](https://github.com/warnikchow), [Jiyoon Han](https://github.com/hanjiyoon01), [Jangwon Park](https://github.com/monologg), [Chisung Song](https://github.com/daydrill), [Junseong Kim](https://github.com/codertimo), [Youngsook Song](https://github.com/songys), [Taehwan Oh](https://github.com/Donquixohtae), [Joohong Lee](https://github.com/roomylee), [Juhyun Oh](https://github.com/juhyunohh), [Sungwon Ryu](https://github.com/Lyusungwon), [Younghoon Jeong](https://github.com/boychaboy), [Inkwon Lee](https://github.com/inkoon), [Sangwoo Seo](https://github.com/SeoSangwoo), [Dongjun Lee](https://github.com/DongJunLee), [Hyunwoo Kim](https://github.com/skywalker023), [Myeonghwa Lee](https://github.com/myeonghwa-lee), [Seongbo Jang](https://github.com/sb-jang), [Seungwon Do](https://github.com/dodoseung), [Sunkyoung Kim](https://github.com/Sunkyoung), [Kyungtae Lim](https://github.com/jujbob), [Jongwon Lee](https://github.com/jongwon-jay-lee), [Kyumin Park](https://github.com/Kyumin-Park), [Jamin Shin](https://github.com/jshin49), [Seonghyun Kim](https://github.com/MrBananaHuman), [Lucy Park](https://github.com/e9t)
 
 ### Advisors
-Alice Oh, [Jung-Woo Ha](https://github.com/Jungwoo-ha), [Kyunghyun Cho](https://github.com/kyunghyuncho)
+[Alice Oh](https://github.com/aliceoh9), [Jung-Woo Ha](https://github.com/Jungwoo-ha), [Kyunghyun Cho](https://github.com/kyunghyuncho)
 
 ## Sponsors
 - Platinum: Upstage, NAVER Clova, Google
