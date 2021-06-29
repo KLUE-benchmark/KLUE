@@ -1,19 +1,19 @@
-# KLUE: Korean Language Understanding Evaluation 
+# KLUE: Korean Language Understanding Evaluation
 
-The KLUE is introduced to make advances in Korean NLP. Korean pre-trained language models(PLMs) have appeared to solve Korean NLP problems since PLMs have brought significant performance gains in NLP problems in other languages. Despite the proliferation of Korean language models, however, none of the proper evaluation datasets has been opened yet. The lack of such benchmark dataset limits the fair comparison between the models and further progress on model architectures. 
+The KLUE is introduced to make advances in Korean NLP. Korean pre-trained language models (PLMs) have appeared to solve Korean NLP problems since PLMs have brought significant performance gains in NLP problems in other languages. Despite the proliferation of Korean language models, however, none of the proper evaluation datasets has been opened yet. The lack of such benchmark dataset limits the fair comparison between the models and further progress on model architectures.
 
-Along with the benchmark tasks and data, we provide **suitable evaluation metrics** and fine-tuning recipes for pretrained language models for each task. We furthermore release the PLMs, **KLUE-BERT** and **KLUE-RoBERTa**, to help reproducing baseline models on KLUE and thereby facilitate future research. 
+Along with the benchmark tasks and data, we provide **suitable evaluation metrics** and fine-tuning recipes for pretrained language models for each task. We furthermore release the PLMs, **KLUE-BERT** and **KLUE-RoBERTa**, to help reproducing baseline models on KLUE and thereby facilitate future research.
 
 See [our paper](https://arxiv.org/pdf/2105.09680.pdf) for more details.
 
 
 ## Design Principles
-In designing the Korean Language Understanding Evaluation (KLUE) benchmark, we aim to make KLUE; 
+In designing the Korean Language Understanding Evaluation (KLUE) benchmark, we aim to make KLUE;
 
 1. cover **diverse** tasks and corpora
 2. **accessible** to everyone without any restriction
 3. include **accurate** and unambiguous annotations
-4. **mitigate** AI ethical issues. 
+4. **mitigate** AI ethical issues.
 
 
 ## Benchmark Datasets
@@ -29,7 +29,7 @@ KLUE benchmark is composed of 8 tasks:
 
 See [wiki](https://github.com/KLUE-benchmark/KLUE/wiki) for dataset description. <br>
 
-`NOTE`: In the paper, we describe more in detail how our 4 principles have guided creating KLUE from task selection, corpus selection, annotation protocols, determining evaluation metrics to baseline construction. 
+`NOTE`: In the paper, we describe more in detail how our 4 principles have guided creating KLUE from task selection, corpus selection, annotation protocols, determining evaluation metrics to baseline construction.
 
 
 ## KLUE-PLMs
@@ -47,7 +47,7 @@ We have trained 2 models: KLUE-BERT and KLUE-RoBERTa. <br>
 
 ## Baseline Scores
 
-Evaluation results of our PLMs and other baselines on KLUE benchmark. **Bold** shows the best performance across the modesl, and _Italic_ indicates the best performance among `BASE` models.
+Evaluation results of our PLMs and other baselines on KLUE benchmark. **Bold** shows the best performance across the models, and _Italic_ indicates the best performance among `BASE` models.
 
 
 | Model                    | TC    | STS   |       | NLI   | NER    |        | RE         |       | DP    |       | MRC   |       | DST   |       |
@@ -92,7 +92,7 @@ https://klue-benchmark.com
 
 ```
 @misc{park2021klue,
-      title={KLUE: Korean Language Understanding Evaluation}, 
+      title={KLUE: Korean Language Understanding Evaluation},
       author={Sungjoon Park and Jihyung Moon and Sungdong Kim and Won Ik Cho and Jiyoon Han and Jangwon Park and Chisung Song and Junseong Kim and Yongsook Song and Taehwan Oh and Joohong Lee and Juhyun Oh and Sungwon Lyu and Younghoon Jeong and Inkwon Lee and Sangwoo Seo and Dongjun Lee and Hyunwoo Kim and Myeonghwa Lee and Seongbo Jang and Seungwon Do and Sunkyoung Kim and Kyungtae Lim and Jongwon Lee and Kyumin Park and Jamin Shin and Seonghyun Kim and Lucy Park and Alice Oh and Jungwoo Ha and Kyunghyun Cho},
       year={2021},
       eprint={2105.09680},
