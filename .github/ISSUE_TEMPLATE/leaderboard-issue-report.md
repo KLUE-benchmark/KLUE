@@ -3,7 +3,7 @@ name: Leaderboard issue report
 about: Any issues, errors, or suggestions on leaderboard submission
 title: "[Leaderboard] (Write Title)"
 labels: leaderboard
-assignees: inmoonlight, SungjoonPark
+assignees: SungjoonPark, marble25, JunYeopLee, inmoonlight
 
 ---
 
